@@ -1,6 +1,7 @@
 # Get started building your personal website
 
-###This is my own version of this? I think
+
+This is my own version of this? I think
 
 
 ### Showcase your software development skills
